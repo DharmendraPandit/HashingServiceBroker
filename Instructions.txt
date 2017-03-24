@@ -1,0 +1,5 @@
+Instruction:
+
+1) Import the both shared project service broker and client.
+2) Build the application using sts.
+3) Follow the instructions/steps which are mentioned in deployment doc.
